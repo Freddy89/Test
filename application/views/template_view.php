@@ -39,7 +39,7 @@
 				$('#tasks_table').DataTable({
 					"responsive": true,
 					"ordering": true,
-					"lengthMenu": [[2, 10, 20, -1], [2, 10, 20, 'Todos']],
+					"lengthMenu": [[3, 10, 20, -1], [3, 10, 20, 'Todos']],
 					"bLengthChange" : false,
     				"bInfo":false,
     				"searching": false
